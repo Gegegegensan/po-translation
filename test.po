@@ -1,0 +1,9 @@
+msgid "test-string_1"
+msgstr "This is an automatic message to confirm the registration of the following user."
+
+msgid "test-string_2"
+msgstr "It's sunny today. Let's go out for a picnic."
+
+msgid "test-string_3"
+msgstr "I would like to request a weekly follow-up email from the company if the following conditions match."
+
